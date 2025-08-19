@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Pra Onde Vamos?",
+  "description": "Descubra os rolês que estão bombando agora, em tempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
